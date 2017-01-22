@@ -1,5 +1,6 @@
-[![Travis CI build status](https://api.travis-ci.org/sashaafm/exads.svg)](https://travis-ci.org/sashaafm/exads)
-[![Inch CI docs status](http://inch-ci.org/github/sashaafm/exads.svg)](http://inch-ci.org/github/sashaafm/exads)
+[![Travis CI build status](https://api.travis-ci.org/remshams/exads.svg?branch=development)](https://travis-ci.org/remshams/exads)
+[![Inch CI docs status](http://inch-ci.org/github/remshams/exads.svg)](http://inch-ci.org/github/remshams/exads)
+[![Deps Status](https://beta.hexfaktor.org/badge/all/github/remshams/exads.svg)](https://beta.hexfaktor.org/github/remshams/exads)
 
 # Exads
 
